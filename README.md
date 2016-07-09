@@ -1,1 +1,1 @@
-Dump old PROMs with an Arduino Uno
+Dump old PROMs with an Arduino Uno or Mega2560
